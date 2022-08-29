@@ -17,7 +17,6 @@ As a part of Unit-2 Construct Week Project. We have cloned Licious Website.
 * Product Page
 * Add to cart
 * Checkout
-* Payment
 
 # Quick Tour to our Project
 1. This is the landing page of our website.
